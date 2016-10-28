@@ -39,4 +39,4 @@ describe('\n    Testing the plugin oldSubAssemblies.js', function () {
     should.deepEqual(finalAssembly, assembly);
   });
 
-});
+}); 

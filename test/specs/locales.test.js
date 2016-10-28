@@ -360,7 +360,7 @@ describe('\n    Testing the file locales.js', function () {
         "Recherche exacte des noms de famille",
         "Recherche exacte du lieu de naissance"
     ]};
-    
+     
     var finalKeys = [
       "given",
       "surname",

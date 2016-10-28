@@ -8,5 +8,5 @@
       "givenname": "Match first names exactly",
       "surname": "Match last names exactly",
       "birthPlace": "Match birthplace exactly"
-  }
+  } 
 }

@@ -149,7 +149,7 @@ function readLocaleFiles(baseLocalePath, baseName, defaultLocale) {
       }
     }
   });
-
+ 
   return langs;
 }
 
