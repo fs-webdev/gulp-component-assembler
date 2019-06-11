@@ -45,7 +45,7 @@
   "dependencies": {
     "chokidar": "^1.4.2",
     "glob": "^4.5.3",
-    "minimatch": "^1.0.0",
+    "minimatch": "^3.0.0",
     "native-promise-only": "^0.8.1",
     "plugin-error": "^0.1.2",
     "through2": "^0.6.5",
